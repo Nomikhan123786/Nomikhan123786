@@ -32,9 +32,9 @@ Passionate **Full-Stack Web Developer** specializing in the **MERN Stack** (Mong
 
 ## 🌐 Projects & Links
 
-- [Project 1 Name]( https://swift-move-clone.vercel.app/)
-- [Project 2 Name](task-manager-fyj67kvvn-nomikhan123786s-projects.vercel.app)
-- [Project 3 Name](https://project3-link.com)
+- [SwiftMove_Clone]( https://swift-move-clone.vercel.app/)
+- [Task Manager](task-manager-fyj67kvvn-nomikhan123786s-projects.vercel.app)
+- 
 
 ---
 
