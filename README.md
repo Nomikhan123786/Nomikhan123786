@@ -30,23 +30,10 @@ Passionate **Full-Stack Web Developer** specializing in the **MERN Stack** (Mong
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 🌐 Projects & Links
 
-- [Project 1 Name](https://project1-link.com)
-- [Project 2 Name](https://project2-link.com)
+- [Project 1 Name]( https://swift-move-clone.vercel.app/)
+- [Project 2 Name](task-manager-fyj67kvvn-nomikhan123786s-projects.vercel.app)
 - [Project 3 Name](https://project3-link.com)
 
 ---
