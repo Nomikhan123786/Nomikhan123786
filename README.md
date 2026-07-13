@@ -3,7 +3,7 @@
 Passionate **Full-Stack Web Developer** specializing in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js). I love building fast, scalable, and user-friendly web applications.
 
 🔗 **Portfolio:** None
-💼 **LinkedIn:** [(https://www.linkedin.com/in/noman-nawaz-khan-305557283?utm_source=share_via&utm_content=profile&utm_medium=member_android)]
+💼 **LinkedIn:** https://www.linkedin.com/in/noman-nawaz-khan-305557283?utm_source=share_via&utm_content=profile&utm_medium=member_android
 📧 **Email:** nomank7887682@gmail.com
 
 ---
